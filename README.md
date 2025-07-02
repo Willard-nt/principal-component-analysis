@@ -14,7 +14,7 @@ This data science project demonstrates advanced data preprocessing skills throug
 ⦁	Clean, analysis-ready CSV dataset  
 ⦁	Technical documentation and limitation analysis  
 
-####Technical Skills Demonstrated  
+#### Technical Skills Demonstrated  
 ⦁	Python/R programming for data manipulation  
 ⦁	Statistical analysis and visualization  
 ⦁	Data quality assessment methodologies  
