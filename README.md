@@ -15,9 +15,9 @@ This comprehensive data science project demonstrates advanced data preprocessing
 ⦁	Technical documentation and limitation analysis
 
 ####Technical Skills Demonstrated
--- ⦁	Python/R programming for data manipulation
--- ⦁	Statistical analysis and visualization
--- ⦁	Data quality assessment methodologies
--- ⦁	Missing data imputation techniques
--- ⦁	Principal Component Analysis (PCA)
--- ⦁	Technical documentation and reporting
+⦁	Python/R programming for data manipulation
+⦁	Statistical analysis and visualization
+⦁	Data quality assessment methodologies
+⦁	Missing data imputation techniques 
+⦁	Principal Component Analysis (PCA)
+⦁	Technical documentation and reporting
