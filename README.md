@@ -3,7 +3,7 @@
 ### Principal Component Analysis
 
 #### Objective  
-This data science project demonstrates advanced data preprocessing skills through a complete data cleaning workflow. Starting with a raw industry dataset, I systematically transform it into analysis-ready format by resolving data quality issues, implementing missing data imputation, and detecting outliers through statistical methods. The project includes strategic research question formulation, structured data cleaning using Python/R, and Principal Component Analysis for dimensionality reduction. Deliverables include a clean, optimized dataset with comprehensive documentation, annotated code, statistical visualizations, and methodological evaluation to guide future analysis.
+This data science project demonstrates advanced data preprocessing skills through a complete data cleaning workflow. Starting with a raw industry dataset, I systematically transform it into analysis-ready format by resolving data quality issues, implementing missing data imputation, and detecting outliers through statistical methods. The project includes strategic research question formulation, structured data cleaning using Python, and Principal Component Analysis for dimensionality reduction. Deliverables include a clean, optimized dataset with comprehensive documentation, annotated code, statistical visualizations, and methodological evaluation to guide future analysis.
 
 #### Key Deliverables  
 ⦁	Strategic research question formulation  
